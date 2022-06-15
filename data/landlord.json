@@ -1,0 +1,19 @@
+{"apartments": [
+    {
+        "number": 101,
+        "maintenanceReport": [{
+            "date": "2000-02-02",
+            "description": "Painted walls"
+        }],
+        "tenantName": "Billie",
+        "rent": 2000,
+        "occupied": true
+    },
+    {
+        "number": 102,
+        "maintenanceReport": [],
+        "tenantName": "",
+        "rent": 0,
+        "occupied": false
+    }
+]}

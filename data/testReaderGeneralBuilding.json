@@ -1,0 +1,19 @@
+{"apartments": [
+  {
+    "number": 101,
+    "maintenanceReport": [{
+      "date": "2021-01-01",
+      "description": "Fixed things"
+    }],
+    "tenantName": "John",
+    "rent": 1000,
+    "occupied": true
+  },
+  {
+    "number": 102,
+    "maintenanceReport": [],
+    "tenantName": "",
+    "rent": 0,
+    "occupied": false
+  }
+]}
